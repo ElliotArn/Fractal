@@ -10,7 +10,6 @@ This project is a Mandelbrot fractal generator implemented in CUDA and visualize
 
 - GPU acceleration using CUDA for efficient fractal computation.
 - Real-time rendering of the Mandelbrot set with adjustable zoom and pan.
-- Interactive GUI using the raylib library for easy exploration.
 
 ## Dependencies
 
