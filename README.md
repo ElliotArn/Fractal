@@ -51,7 +51,7 @@ This project is a Mandelbrot fractal generator implemented in CUDA and visualize
 
 ## Performance
 
-The program achieves approximately 4.7 frames per second (FPS) during real-time rendering on a GeForce RTX 3050 Mobile.
+The program achieves approximately 4.7 frames per second (FPS) during real-time rendering on a GeForce RTX 3050 Mobile with a screen size of 1900x1024.
 
 
 ## Acknowledgments
